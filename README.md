@@ -1,7 +1,5 @@
 # InstaAid - First Aid & Medical Emergency Assistance Platform
 
-![InstaAid Logo](public/logo192.png)
-
 ## Overview
 
 InstaAid is a comprehensive web application designed to provide immediate first aid and medical emergency assistance. The platform offers step-by-step guidance for various medical emergencies, multilingual support, and location-based hospital finder services.
@@ -54,9 +52,6 @@ InstaAid is a comprehensive web application designed to provide immediate first 
 
 5. Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
-## Deployment
-
-The application is deployed using Netlify. Any changes pushed to the main branch will automatically trigger a new deployment.
 
 ## Project Structure
 
@@ -68,16 +63,7 @@ The application is deployed using Netlify. Any changes pushed to the main branch
   - `/utils` - Utility functions
   - `/styles` - CSS styles
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 Amulya Bharti J - bhartiamulya0902@gmail.com
 
-Project Link: [https://github.com/bhartiamulya/instaid-web](https://github.com/bhartiamulya/instaid-web)
