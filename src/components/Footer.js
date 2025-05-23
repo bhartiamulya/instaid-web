@@ -76,10 +76,10 @@ const Footer = () => {
               About InstaAid
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              A collaborative project by Team AADS:
+              Healthcare inspired project by:
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Amulya • Aditya • Diya • Sayantika
+              Amulya Bharti J
             </Typography>
             <Typography variant="body2" color="text.secondary" sx={{ mt: 1 }}>
               {new Date().getFullYear()} InstaAid. All rights reserved.
