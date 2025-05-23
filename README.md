@@ -1,5 +1,7 @@
 # InstaAid - First Aid & Medical Emergency Assistance Platform
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77647060-c1e4-41c9-ab6c-ee1af3e9947b/deploy-status)](https://amulyasinstaaid.netlify.app/)
+
 ## Overview
 
 InstaAid is a comprehensive web application designed to provide immediate first aid and medical emergency assistance. The platform offers step-by-step guidance for various medical emergencies, multilingual support, and location-based hospital finder services.
